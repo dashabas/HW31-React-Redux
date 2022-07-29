@@ -1,0 +1,14 @@
+.done {
+    background-color: green;
+}
+
+li {
+    padding: 5px 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 2px;
+    background-color: yellow;
+}
